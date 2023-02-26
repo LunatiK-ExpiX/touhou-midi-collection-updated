@@ -1,8 +1,6 @@
-# touhou-midi-collection
+# Touhou Midi Collection Updated
 A collection of MIDIs of the TouHou OSTs and some other arrangemrnts.
-
-Originally was hosted on [Gamebanana](https://gamebanana.com/projects/35179), but I ~~stole~~ downloaded ~~all~~ (I'll upload all of them soon) the MIDIs and \
-reuploaded on here for the easier access.
+Original project was hosted on [Gamebanana](https://gamebanana.com/projects/35179), but I decided to fork off of [this](https://github.com/AyHa1810/touhou-midi-collection) and then updated with the new midis that released.
 
 ## Repo Contents
 In the root directory, every MIDI files are separated into sections to make it easier for a song to search.
@@ -88,7 +86,9 @@ If you have any issues or questions related to this repo, you simply can oen a n
 You should search for the existing issue/question before opening any new one. Unrelated issues will be closed.
 
 ## Acknowledgement 
-Thanks to The Tremolo Measure (admin of the [Gamebana](https://gamebanana.com/projects/35179)) for maintaining the project, and all the contributors \
+Thanks to The Tremolo Measure (admin of the [Gamebanana](https://gamebanana.com/projects/35179)) for maintaining the project, and all the contributors \
 for contributing to the project.
+
+Original Github by Ayha1810 is [here](https://github.com/AyHa1810/touhou-midi-collection)
 
 If you want to know more about TouHou, you can visit the official [TouHou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) maintained by TouHou community.
